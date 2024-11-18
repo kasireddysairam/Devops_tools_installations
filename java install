@@ -1,0 +1,6 @@
+1.install java on ubuntu
+sudo apt install openjdk-17-jdk -y
+
+  
+2. install java on amazon linux
+  sudo yum install -y java-17-amazon-corretto-devel
